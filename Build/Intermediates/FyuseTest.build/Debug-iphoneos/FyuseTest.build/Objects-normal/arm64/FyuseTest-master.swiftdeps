@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "e289d6021b87cd84d3e42809dd9b2359"
+build_time: [551351111, 79616000]
+inputs:
+  "/Users/bright/Desktop/FyuseTest/FyuseTest/ViewController.swift": [551340357, 0]
+  "/Users/bright/Desktop/FyuseTest/FyuseTest/AppDelegate.swift": [551255285, 0]
